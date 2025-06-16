@@ -1,0 +1,5 @@
+outs:
+- md5: cfda816d83ed69fc3385d953ef418e4b
+  size: 207046826
+  hash: md5
+  path: MachineLearningRating_v3.xlsx
